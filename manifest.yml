@@ -2,3 +2,5 @@ applications:
 - name: DoggyAdoption
   description : Simple demo app that has fun dog pictures.
   mem: 256M
+  framework: node
+  runtime: node
